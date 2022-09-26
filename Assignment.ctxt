@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Assignment
+comment0.text=\n\ The\ main\ class\ of\ the\ assesement\ \n\n\ Mrisha\ Upadhyay\n\ 26/09/2022\n
+comment1.params=name\ mark
+comment1.target=Assignment(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getAssignementName()
+comment3.params=
+comment3.target=java.lang.String\ getAssignmentMark()
+numComments=4

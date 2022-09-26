@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\n\ The\ class\ helps\ to\ display\ student\ details.\ \n\n\ Mrisha\ Upadhyay\n\ 26/09/2022\n
+comment1.params=lastName\ firstName\ studentId\ unit
+comment1.target=Student(java.lang.String,\ java.lang.String,\ java.lang.String,\ Unit)
+comment2.params=
+comment2.target=java.lang.String\ getStudentName()
+comment3.params=
+comment3.target=java.lang.String\ getStudentId()
+numComments=4
